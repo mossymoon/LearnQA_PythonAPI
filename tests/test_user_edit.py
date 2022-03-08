@@ -52,3 +52,4 @@ class TestUserEdit(BaseCase):
             new_name,
             "Wrong name of the user after edit"
         )
+
